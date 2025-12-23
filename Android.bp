@@ -25923,6 +25923,7 @@ cc_prebuilt_binary {
                 "android.hardware.usb.gadget@1.1",
                 "libbase",
                 "libcutils",
+                "libbase_shim",
                 "libhardware",
                 "libhidlbase",
                 "liblog",
